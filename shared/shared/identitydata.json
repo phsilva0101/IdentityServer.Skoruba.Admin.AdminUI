@@ -1,0 +1,25 @@
+﻿{
+  "IdentityData": {
+    "Roles": [
+      {
+        "Name": "AdmRole"
+      }
+    ],
+    "Users": [
+      {
+        "Username": "admin",
+        "Password": "52357941pP@",
+        "Email": "paulohsilva2001@gmail.com",
+        "Roles": [
+          "AdmRole"
+        ],
+        "Claims": [
+          {
+            "Type": "name",
+            "Value": "admin"
+          }
+        ]
+      }
+    ]
+  }
+}
